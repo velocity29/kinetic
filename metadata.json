@@ -1,0 +1,8 @@
+{
+  "name": "KINETIC OS",
+  "description": "A high-performance system for professional evolution. Transform daily intention into career momentum.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
